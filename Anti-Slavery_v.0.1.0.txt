@@ -1,0 +1,55 @@
+orkstation Security Setup (Highlights)
+
+    Choose a Secure OS:
+
+        Use Hardened Arch or Debian for general use (with minimal software installed).
+
+        For highly sensitive tasks, use Tails OS (live OS) or Qubes OS (virtualized environment).
+
+    Minimize Attack Surface:
+
+        Disable unnecessary services and software.
+
+        Use firewall (e.g., ufw, iptables).
+
+        Set up USB lockdown (e.g., usbguard) to prevent unauthorized access.
+
+    System Hardening:
+
+        Enable SELinux or AppArmor for application sandboxing.
+
+        Use Full Disk Encryption (LUKS) for protecting data at rest.
+
+        Apply kernel hardening (e.g., using hardened kernels).
+
+    Isolate Critical Tasks:
+
+        Use containers (e.g., Docker or LXC) for app isolation.
+
+        For extremely sensitive tasks, switch to Tails or Qubes OS for increased privacy.
+
+    Automate Security:
+
+        Set up automatic security updates.
+
+        Use malware/rootkit scanners like rkhunter or chkrootkit for regular checks.
+
+        Implement integrity monitoring (e.g., AIDE).
+
+    USB Device Security:
+
+        Ensure no auto-mounting of USB devices.
+
+        Inspect USB drives for tampered firmware (e.g., BadUSB).
+
+    Network and Authentication:
+
+        Use VPNs and Tor for internet privacy.
+
+        Enable multi-factor authentication (MFA) wherever possible.
+
+        Monitor network traffic for suspicious activity.
+
+    Mental Resilience:
+
+        Balance between security and mental peace—consider ways to disconnect and recharge in this high-stress situation.

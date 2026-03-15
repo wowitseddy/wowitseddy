@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devin.
 - 👀 I’m interested in AGI.
 - 🌱 I’m currently learning C++, Python, and experimental machine learning. 
-- 💞️ I’m looking to collaborate on SaaS, B2B, marketing, and logistics solutions related to health, fitness, and other software applications. 
+- 💞️ SaaS, B2B, marketing, and logistics solutions related to health, fitness, and other software applications. 
 - 📫 How to reach me [sycorax89@tutanota.com]
 - ⚡ Fun fact: Strike the sky.
 
